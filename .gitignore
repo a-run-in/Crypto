@@ -1,0 +1,38 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+.idea/
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+
+# Swift Package Manager
+Packages/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+*.lock
+
+# Archives
+*.xcarchive
+
+# Device Data
+*.ipa
+*.app
+
+# Provisioning Profiles
+*.mobileprovision
+*.signing
+
